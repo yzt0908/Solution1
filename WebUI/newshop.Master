@@ -1,0 +1,87 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="newshop.master.cs" Inherits="WebUI.newshop" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 955px;
+            height: 427px;
+        }
+
+        .auto-style2 {
+            width: 78px;
+        }
+
+        .auto-style3 {
+            width: 755px;
+        }
+
+        .auto-style4 {
+            height: 118px;
+            text-align: center;
+            background-color: #CCFFFF;
+        }
+        .auto-style5 {
+            width: 78px;
+            height: 57px;
+        }
+        .auto-style6 {
+            width: 755px;
+            height: 57px;
+        }
+        .auto-style7 {
+            height: 57px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <table class="auto-style1">
+                <tr>
+                    <td class="auto-style4" colspan="3">商城</td>
+                </tr>
+                <tr>
+                    <td class="auto-style2">&nbsp;</td>
+                    <td class="auto-style3">
+                        <asp:Panel ID="plVisitor" runat="server">
+                            游客&nbsp;&nbsp; 
+                            <asp:HyperLink ID="HyperLink3" runat="server" NavigateUrl="~/register.aspx">注册</asp:HyperLink>
+                            &nbsp;&nbsp;<asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/login.aspx">登录</asp:HyperLink>
+                        </asp:Panel>
+                        <asp:Panel ID="plUser" runat="server">
+                            会员 &nbsp;&nbsp;<%--&nbsp;<asp:LinkButton ID="LinkButton1" runat="server" OnClick="LinkButton1_Click">注销</asp:LinkButton>--%></asp:Panel>
+                    </td>
+                    <td>&nbsp;</td>
+                </tr>
+                <tr>
+                    <td class="auto-style5"></td>
+                    <td class="auto-style6">
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </td>
+                    <td class="auto-style7"></td>
+                </tr>
+                <tr>
+                    <td class="auto-style2">&nbsp;</td>
+                    <td class="auto-style3">版权信息       <td class="auto-style7"></td>
+                </tr>
+                <tr>
+                    <td class="auto-style2">&nbsp;</td>
+                    <td class="auto-style3">版权信息<br />
+                        XXXX年XX月<br />
+                        0411-8611XXXX</td>
+                    <td>&nbsp;</td>
+                </tr>
+            </table>
+            <br />
+        </div>
+    </form>
+</body>
+</html>
