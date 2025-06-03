@@ -50,5 +50,18 @@ namespace Business
             else
                 return false;
         }
+        //修改用户信息
+       //public static bool UpdateUserInfo(UserEntity user)
+        //{
+            //// 修改用户信息
+            //string cmdText = "update users set email=@Email,phone=@Phone,updateat=@Updateat where username=@Username";
+            //string[] paramNames = { "@Username", "@Email", "@Phone", "@Updateat" };
+            //object[] paramValues = { user.UserName, user.Email, user.Phone, user.UpdateAt };
+            //int n = DA.ExcuteSqlCommand(cmdText, CommandType.Text, paramNames, paramValues);
+            //if (n > 0)
+            //    return true;
+            //else
+            //    return false;
+        //}
     }
 }
