@@ -10,21 +10,34 @@
     </asp:ContentPlaceHolder>
     <style type="text/css">
         .auto-style1 {
+<<<<<<< HEAD
             width: 1286px;
+=======
+            width: 955px;
+>>>>>>> 64088935fe07c626f52f0e6a14c5c1f0d74abb15
             height: 427px;
         }
 
         .auto-style2 {
+<<<<<<< HEAD
             width: 144px;
         }
 
         .auto-style3 {
             width: 991px;
+=======
+            width: 78px;
+        }
+
+        .auto-style3 {
+            width: 755px;
+>>>>>>> 64088935fe07c626f52f0e6a14c5c1f0d74abb15
         }
 
         .auto-style4 {
             height: 118px;
             text-align: center;
+<<<<<<< HEAD
             background-color: bisque;
         }
         .auto-style5 {
@@ -33,11 +46,22 @@
         }
         .auto-style6 {
             width: 991px;
+=======
+            background-color: #CCFFFF;
+        }
+        .auto-style5 {
+            width: 78px;
+            height: 57px;
+        }
+        .auto-style6 {
+            width: 755px;
+>>>>>>> 64088935fe07c626f52f0e6a14c5c1f0d74abb15
             height: 57px;
         }
         .auto-style7 {
             height: 57px;
         }
+<<<<<<< HEAD
         .auto-style8 {
             width: 144px;
             height: 76px;
@@ -49,6 +73,8 @@
         .auto-style10 {
             height: 76px;
         }
+=======
+>>>>>>> 64088935fe07c626f52f0e6a14c5c1f0d74abb15
     </style>
 </head>
 <body>
@@ -59,6 +85,7 @@
                     <td class="auto-style4" colspan="3">商城</td>
                 </tr>
                 <tr>
+<<<<<<< HEAD
                     <td class="auto-style8"></td>
                     <td class="auto-style9">
                         <asp:Panel ID="plVisitor" runat="server">
@@ -75,6 +102,19 @@
                         </asp:Panel>
                     </td>
                     <td class="auto-style10"></td>
+=======
+                    <td class="auto-style2">&nbsp;</td>
+                    <td class="auto-style3">
+                        <asp:Panel ID="plVisitor" runat="server">
+                            游客&nbsp;&nbsp; 
+                            <asp:HyperLink ID="HyperLink3" runat="server" NavigateUrl="~/register.aspx">注册</asp:HyperLink>
+                            &nbsp;&nbsp;<asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/login.aspx">登录</asp:HyperLink>
+                        </asp:Panel>
+                        <asp:Panel ID="plUser" runat="server">
+                            会员 &nbsp;&nbsp;<%--&nbsp;<asp:LinkButton ID="LinkButton1" runat="server" OnClick="LinkButton1_Click">注销</asp:LinkButton>--%></asp:Panel>
+                    </td>
+                    <td>&nbsp;</td>
+>>>>>>> 64088935fe07c626f52f0e6a14c5c1f0d74abb15
                 </tr>
                 <tr>
                     <td class="auto-style5"></td>
@@ -86,7 +126,11 @@
                 </tr>
                 <tr>
                     <td class="auto-style2">&nbsp;</td>
+<<<<<<< HEAD
                     <td class="auto-style3">版权信息        <td class="auto-style7"></td>
+=======
+                    <td class="auto-style3">版权信息       <td class="auto-style7"></td>
+>>>>>>> 64088935fe07c626f52f0e6a14c5c1f0d74abb15
                 </tr>
                 <tr>
                     <td class="auto-style2">&nbsp;</td>

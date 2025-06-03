@@ -50,6 +50,7 @@ namespace Business
             else
                 return false;
         }
+<<<<<<< HEAD
         //修改用户信息
        //public static bool UpdateUserInfo(UserEntity user)
         //{
@@ -63,5 +64,7 @@ namespace Business
             //else
             //    return false;
         //}
+=======
+>>>>>>> 64088935fe07c626f52f0e6a14c5c1f0d74abb15
     }
 }

@@ -67,6 +67,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Content Include="AdminLogin.aspx" />
     <Content Include="CartProfile.aspx" />
     <Content Include="img\1.png.jpg" />
@@ -109,6 +110,14 @@
     <Compile Include="CartProfile.aspx.designer.cs">
       <DependentUpon>CartProfile.aspx</DependentUpon>
     </Compile>
+=======
+    <Content Include="login.aspx" />
+    <Content Include="register.aspx" />
+    <Content Include="shopDefault.aspx" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+>>>>>>> 64088935fe07c626f52f0e6a14c5c1f0d74abb15
     <Compile Include="login.aspx.cs">
       <DependentUpon>login.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -123,6 +132,7 @@
     <Compile Include="newshop.Master.designer.cs">
       <DependentUpon>newshop.Master</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="OrderDefault.aspx.cs">
       <DependentUpon>OrderDefault.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -137,6 +147,8 @@
     <Compile Include="Profile.aspx.designer.cs">
       <DependentUpon>Profile.aspx</DependentUpon>
     </Compile>
+=======
+>>>>>>> 64088935fe07c626f52f0e6a14c5c1f0d74abb15
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="register.aspx.cs">
       <DependentUpon>register.aspx</DependentUpon>
@@ -152,6 +164,7 @@
     <Compile Include="shopDefault.aspx.designer.cs">
       <DependentUpon>shopDefault.aspx</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="后台界面\DeleteGoods.aspx.cs">
       <DependentUpon>DeleteGoods.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -184,6 +197,11 @@
   <ItemGroup>
     <Content Include="newshop.Master" />
     <Content Include="Admin.Master" />
+=======
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="newshop.Master" />
+>>>>>>> 64088935fe07c626f52f0e6a14c5c1f0d74abb15
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -206,7 +224,10 @@
       <Name>Entity</Name>
     </ProjectReference>
   </ItemGroup>
+<<<<<<< HEAD
   <ItemGroup />
+=======
+>>>>>>> 64088935fe07c626f52f0e6a14c5c1f0d74abb15
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

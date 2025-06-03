@@ -2,6 +2,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+<<<<<<< HEAD
     <asp:DataList ID="DataList1" runat="server" BackColor="White" BorderColor="#336666" BorderStyle="Double" BorderWidth="3px" CellPadding="4" GridLines="Horizontal" RepeatColumns="4" Width="785px">
         <FooterStyle BackColor="White" ForeColor="#333333" />
         <HeaderStyle BackColor="#336666" Font-Bold="True" ForeColor="White" />
@@ -15,4 +16,6 @@
         </ItemTemplate>
         <SelectedItemStyle BackColor="#339966" Font-Bold="True" ForeColor="White" />
     </asp:DataList>
+=======
+>>>>>>> 64088935fe07c626f52f0e6a14c5c1f0d74abb15
 </asp:Content>

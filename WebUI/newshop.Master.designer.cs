@@ -42,6 +42,7 @@ namespace WebUI
         protected global::System.Web.UI.WebControls.Panel plVisitor;
 
         /// <summary>
+<<<<<<< HEAD
         /// HyperLink5 控件。
         /// </summary>
         /// <remarks>
@@ -51,6 +52,8 @@ namespace WebUI
         protected global::System.Web.UI.WebControls.HyperLink HyperLink5;
 
         /// <summary>
+=======
+>>>>>>> 64088935fe07c626f52f0e6a14c5c1f0d74abb15
         /// HyperLink3 控件。
         /// </summary>
         /// <remarks>
@@ -69,6 +72,7 @@ namespace WebUI
         protected global::System.Web.UI.WebControls.HyperLink HyperLink2;
 
         /// <summary>
+<<<<<<< HEAD
         /// HyperLink7 控件。
         /// </summary>
         /// <remarks>
@@ -78,6 +82,8 @@ namespace WebUI
         protected global::System.Web.UI.WebControls.HyperLink HyperLink7;
 
         /// <summary>
+=======
+>>>>>>> 64088935fe07c626f52f0e6a14c5c1f0d74abb15
         /// plUser 控件。
         /// </summary>
         /// <remarks>
@@ -87,6 +93,7 @@ namespace WebUI
         protected global::System.Web.UI.WebControls.Panel plUser;
 
         /// <summary>
+<<<<<<< HEAD
         /// HyperLink4 控件。
         /// </summary>
         /// <remarks>
@@ -105,6 +112,8 @@ namespace WebUI
         protected global::System.Web.UI.WebControls.HyperLink HyperLink6;
 
         /// <summary>
+=======
+>>>>>>> 64088935fe07c626f52f0e6a14c5c1f0d74abb15
         /// ContentPlaceHolder1 控件。
         /// </summary>
         /// <remarks>

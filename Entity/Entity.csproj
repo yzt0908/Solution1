@@ -41,11 +41,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Include="AdminEntity.cs" />
     <Compile Include="CartEntity.cs" />
     <Compile Include="CartItemEntity.cs" />
     <Compile Include="GoodEntity.cs" />
     <Compile Include="OrderEntity.cs" />
+=======
+>>>>>>> 64088935fe07c626f52f0e6a14c5c1f0d74abb15
     <Compile Include="UserEntity.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
