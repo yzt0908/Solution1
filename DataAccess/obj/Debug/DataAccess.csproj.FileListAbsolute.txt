@@ -1,0 +1,18 @@
+D:\realshop\Solution1\DataAccess\bin\Debug\DataAccess.dll
+D:\realshop\Solution1\DataAccess\bin\Debug\DataAccess.pdb
+D:\realshop\Solution1\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\realshop\Solution1\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\realshop\Solution1\DataAccess\obj\Debug\DataAccess.dll
+D:\realshop\Solution1\DataAccess\obj\Debug\DataAccess.pdb
+D:\sb\realshop 后台的 登录 添加图书 查看图书功能\Solution1\DataAccess\bin\Debug\DataAccess.dll
+D:\sb\realshop 后台的 登录 添加图书 查看图书功能\Solution1\DataAccess\bin\Debug\DataAccess.pdb
+D:\sb\realshop 后台的 登录 添加图书 查看图书功能\Solution1\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\sb\realshop 后台的 登录 添加图书 查看图书功能\Solution1\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\sb\realshop 后台的 登录 添加图书 查看图书功能\Solution1\DataAccess\obj\Debug\DataAccess.dll
+D:\sb\realshop 后台的 登录 添加图书 查看图书功能\Solution1\DataAccess\obj\Debug\DataAccess.pdb
+D:\ShopWeb\realshop 后台功能的 物品模块已完成（未完成封面的更改）\Solution1\DataAccess\bin\Debug\DataAccess.dll
+D:\ShopWeb\realshop 后台功能的 物品模块已完成（未完成封面的更改）\Solution1\DataAccess\bin\Debug\DataAccess.pdb
+D:\ShopWeb\realshop 后台功能的 物品模块已完成（未完成封面的更改）\Solution1\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\ShopWeb\realshop 后台功能的 物品模块已完成（未完成封面的更改）\Solution1\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\ShopWeb\realshop 后台功能的 物品模块已完成（未完成封面的更改）\Solution1\DataAccess\obj\Debug\DataAccess.dll
+D:\ShopWeb\realshop 后台功能的 物品模块已完成（未完成封面的更改）\Solution1\DataAccess\obj\Debug\DataAccess.pdb

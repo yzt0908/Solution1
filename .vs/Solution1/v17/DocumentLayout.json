@@ -1,0 +1,774 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|d:\\shopweb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\solution1\\webui\\\u540E\u53F0\u754C\u9762\\updategoods.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|solutionrelative:webui\\\u540E\u53F0\u754C\u9762\\updategoods.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\webui\\\u540E\u53F0\u754C\u9762\\updategoods.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|solutionrelative:webui\\\u540E\u53F0\u754C\u9762\\updategoods.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20426BA-D8F0-47EA-A4A4-507EED893ECF}|Business\\Business.csproj|D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\business\\goodbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20426BA-D8F0-47EA-A4A4-507EED893ECF}|Business\\Business.csproj|solutionrelative:business\\goodbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\webui\\\u540E\u53F0\u754C\u9762\\insertgoods.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|solutionrelative:webui\\\u540E\u53F0\u754C\u9762\\insertgoods.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\webui\\shopdefault.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|solutionrelative:webui\\shopdefault.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20426BA-D8F0-47EA-A4A4-507EED893ECF}|Business\\Business.csproj|D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\business\\userbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20426BA-D8F0-47EA-A4A4-507EED893ECF}|Business\\Business.csproj|solutionrelative:business\\userbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\webui\\\u540E\u53F0\u754C\u9762\\selectgoods.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|solutionrelative:webui\\\u540E\u53F0\u754C\u9762\\selectgoods.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\webui\\\u540E\u53F0\u754C\u9762\\selectgoods.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|solutionrelative:webui\\\u540E\u53F0\u754C\u9762\\selectgoods.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\webui\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|solutionrelative:webui\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\webui\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|solutionrelative:webui\\admin.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\webui\\adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|solutionrelative:webui\\adminlogin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\webui\\newshop.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|solutionrelative:webui\\newshop.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\webui\\profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|solutionrelative:webui\\profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\webui\\\u540E\u53F0\u754C\u9762\\deletegoods.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|solutionrelative:webui\\\u540E\u53F0\u754C\u9762\\deletegoods.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\webui\\cartprofile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|solutionrelative:webui\\cartprofile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\webui\\orderdefault.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|solutionrelative:webui\\orderdefault.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\webui\\\u540E\u53F0\u754C\u9762\\deletegoods.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|solutionrelative:webui\\\u540E\u53F0\u754C\u9762\\deletegoods.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20426BA-D8F0-47EA-A4A4-507EED893ECF}|Business\\Business.csproj|D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\business\\cartbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20426BA-D8F0-47EA-A4A4-507EED893ECF}|Business\\Business.csproj|solutionrelative:business\\cartbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20426BA-D8F0-47EA-A4A4-507EED893ECF}|Business\\Business.csproj|D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\business\\cartitembusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20426BA-D8F0-47EA-A4A4-507EED893ECF}|Business\\Business.csproj|solutionrelative:business\\cartitembusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\webui\\cartprofile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|solutionrelative:webui\\cartprofile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\webui\\shopdefault.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|solutionrelative:webui\\shopdefault.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\webui\\\u540E\u53F0\u754C\u9762\\insertgoods.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|solutionrelative:webui\\\u540E\u53F0\u754C\u9762\\insertgoods.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\webui\\profile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|solutionrelative:webui\\profile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\webui\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|solutionrelative:webui\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\webui\\orderdefault.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|solutionrelative:webui\\orderdefault.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\webui\\adminlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|solutionrelative:webui\\adminlogin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\webui\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|solutionrelative:webui\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20426BA-D8F0-47EA-A4A4-507EED893ECF}|Business\\Business.csproj|D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\business\\adminbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20426BA-D8F0-47EA-A4A4-507EED893ECF}|Business\\Business.csproj|solutionrelative:business\\adminbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82365A86-30A5-4878-8AED-31628AAA1680}|Entity\\Entity.csproj|D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\entity\\adminentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82365A86-30A5-4878-8AED-31628AAA1680}|Entity\\Entity.csproj|solutionrelative:entity\\adminentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82365A86-30A5-4878-8AED-31628AAA1680}|Entity\\Entity.csproj|D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\entity\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82365A86-30A5-4878-8AED-31628AAA1680}|Entity\\Entity.csproj|solutionrelative:entity\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82365A86-30A5-4878-8AED-31628AAA1680}|Entity\\Entity.csproj|D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\entity\\cartentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82365A86-30A5-4878-8AED-31628AAA1680}|Entity\\Entity.csproj|solutionrelative:entity\\cartentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0F947C-7865-4D47-A676-A1B4427A3372}|DataAccess\\DataAccess.csproj|D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0F947C-7865-4D47-A676-A1B4427A3372}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\webui\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|solutionrelative:webui\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20426BA-D8F0-47EA-A4A4-507EED893ECF}|Business\\Business.csproj|D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\business\\orderbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20426BA-D8F0-47EA-A4A4-507EED893ECF}|Business\\Business.csproj|solutionrelative:business\\orderbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82365A86-30A5-4878-8AED-31628AAA1680}|Entity\\Entity.csproj|D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\entity\\orderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82365A86-30A5-4878-8AED-31628AAA1680}|Entity\\Entity.csproj|solutionrelative:entity\\orderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20426BA-D8F0-47EA-A4A4-507EED893ECF}|Business\\Business.csproj|D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20426BA-D8F0-47EA-A4A4-507EED893ECF}|Business\\Business.csproj|solutionrelative:business\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\sb\\WebUI\\CartProfile.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82365A86-30A5-4878-8AED-31628AAA1680}|Entity\\Entity.csproj|D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\entity\\cartitementity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82365A86-30A5-4878-8AED-31628AAA1680}|Entity\\Entity.csproj|solutionrelative:entity\\cartitementity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\webui\\profile.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|solutionrelative:webui\\profile.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\sb\\WebUI\\Profile.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\webui\\cartprofile.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61E6D5EE-BC61-4C29-9D28-A74CC370A048}|WebUI\\WebUI.csproj|solutionrelative:webui\\cartprofile.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\sb\\WebUI\\Profile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\sb\\WebUI\\Profile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\sb\\WebUI\\CartProfile.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\sb\\WebUI\\CartProfile.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82365A86-30A5-4878-8AED-31628AAA1680}|Entity\\Entity.csproj|D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\entity\\goodentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82365A86-30A5-4878-8AED-31628AAA1680}|Entity\\Entity.csproj|solutionrelative:entity\\goodentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B0F947C-7865-4D47-A676-A1B4427A3372}|DataAccess\\DataAccess.csproj|D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\dataaccess\\da.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B0F947C-7865-4D47-A676-A1B4427A3372}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\da.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "shopDefault.aspx",
+              "DocumentMoniker": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\shopDefault.aspx",
+              "RelativeDocumentMoniker": "WebUI\\shopDefault.aspx",
+              "ToolTip": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\shopDefault.aspx",
+              "RelativeToolTip": "WebUI\\shopDefault.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-31T04:01:10.744Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateGoods.aspx.cs",
+              "DocumentMoniker": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\\u540E\u53F0\u754C\u9762\\UpdateGoods.aspx.cs",
+              "RelativeDocumentMoniker": "WebUI\\\u540E\u53F0\u754C\u9762\\UpdateGoods.aspx.cs",
+              "ToolTip": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\\u540E\u53F0\u754C\u9762\\UpdateGoods.aspx.cs",
+              "RelativeToolTip": "WebUI\\\u540E\u53F0\u754C\u9762\\UpdateGoods.aspx.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAqwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T03:56:35.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateGoods.aspx",
+              "DocumentMoniker": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\\u540E\u53F0\u754C\u9762\\UpdateGoods.aspx",
+              "RelativeDocumentMoniker": "WebUI\\\u540E\u53F0\u754C\u9762\\UpdateGoods.aspx",
+              "ToolTip": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\\u540E\u53F0\u754C\u9762\\UpdateGoods.aspx",
+              "RelativeToolTip": "WebUI\\\u540E\u53F0\u754C\u9762\\UpdateGoods.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-01T09:15:20.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GoodBusiness.cs",
+              "DocumentMoniker": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\Business\\GoodBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\GoodBusiness.cs",
+              "ToolTip": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\Business\\GoodBusiness.cs",
+              "RelativeToolTip": "Business\\GoodBusiness.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAUwEkAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T08:49:52.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InsertGoods.aspx",
+              "DocumentMoniker": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\\u540E\u53F0\u754C\u9762\\InsertGoods.aspx",
+              "RelativeDocumentMoniker": "WebUI\\\u540E\u53F0\u754C\u9762\\InsertGoods.aspx",
+              "ToolTip": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\\u540E\u53F0\u754C\u9762\\InsertGoods.aspx",
+              "RelativeToolTip": "WebUI\\\u540E\u53F0\u754C\u9762\\InsertGoods.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-01T09:14:51.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SelectGoods.aspx",
+              "DocumentMoniker": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\\u540E\u53F0\u754C\u9762\\SelectGoods.aspx",
+              "RelativeDocumentMoniker": "WebUI\\\u540E\u53F0\u754C\u9762\\SelectGoods.aspx",
+              "ToolTip": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\\u540E\u53F0\u754C\u9762\\SelectGoods.aspx",
+              "RelativeToolTip": "WebUI\\\u540E\u53F0\u754C\u9762\\SelectGoods.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-01T09:14:26.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserBusiness.cs",
+              "DocumentMoniker": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\Business\\UserBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\UserBusiness.cs",
+              "ToolTip": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\Business\\UserBusiness.cs",
+              "RelativeToolTip": "Business\\UserBusiness.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAwDYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T09:48:20.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "register.aspx",
+              "DocumentMoniker": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\register.aspx",
+              "RelativeDocumentMoniker": "WebUI\\register.aspx",
+              "ToolTip": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\register.aspx",
+              "RelativeToolTip": "WebUI\\register.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-03T03:49:45.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CartProfile.aspx",
+              "DocumentMoniker": "D:\\sb\\WebUI\\CartProfile.aspx",
+              "RelativeDocumentMoniker": "..\\..\\..\\sb\\WebUI\\CartProfile.aspx",
+              "ToolTip": "D:\\sb\\WebUI\\CartProfile.aspx",
+              "RelativeToolTip": "..\\..\\..\\sb\\WebUI\\CartProfile.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-31T08:52:05.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CartProfile.aspx.designer.cs",
+              "DocumentMoniker": "D:\\sb\\WebUI\\CartProfile.aspx.designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\sb\\WebUI\\CartProfile.aspx.designer.cs",
+              "ToolTip": "D:\\sb\\WebUI\\CartProfile.aspx.designer.cs",
+              "RelativeToolTip": "..\\..\\..\\sb\\WebUI\\CartProfile.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T08:52:11.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SelectGoods.aspx.cs",
+              "DocumentMoniker": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\\u540E\u53F0\u754C\u9762\\SelectGoods.aspx.cs",
+              "RelativeDocumentMoniker": "WebUI\\\u540E\u53F0\u754C\u9762\\SelectGoods.aspx.cs",
+              "ToolTip": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\\u540E\u53F0\u754C\u9762\\SelectGoods.aspx.cs",
+              "RelativeToolTip": "WebUI\\\u540E\u53F0\u754C\u9762\\SelectGoods.aspx.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T09:17:46.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Profile.aspx.designer.cs",
+              "DocumentMoniker": "D:\\sb\\WebUI\\Profile.aspx.designer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\sb\\WebUI\\Profile.aspx.designer.cs",
+              "ToolTip": "D:\\sb\\WebUI\\Profile.aspx.designer.cs",
+              "RelativeToolTip": "..\\..\\..\\sb\\WebUI\\Profile.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T09:10:51.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Profile.aspx.cs",
+              "DocumentMoniker": "D:\\sb\\WebUI\\Profile.aspx.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\sb\\WebUI\\Profile.aspx.cs",
+              "ToolTip": "D:\\sb\\WebUI\\Profile.aspx.cs",
+              "RelativeToolTip": "..\\..\\..\\sb\\WebUI\\Profile.aspx.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T09:03:45.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CartProfile.aspx.cs",
+              "DocumentMoniker": "D:\\sb\\WebUI\\CartProfile.aspx.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\sb\\WebUI\\CartProfile.aspx.cs",
+              "ToolTip": "D:\\sb\\WebUI\\CartProfile.aspx.cs",
+              "RelativeToolTip": "..\\..\\..\\sb\\WebUI\\CartProfile.aspx.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAADwv2wAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T08:54:46.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Profile.aspx",
+              "DocumentMoniker": "D:\\sb\\WebUI\\Profile.aspx",
+              "RelativeDocumentMoniker": "..\\..\\..\\sb\\WebUI\\Profile.aspx",
+              "ToolTip": "D:\\sb\\WebUI\\Profile.aspx",
+              "RelativeToolTip": "..\\..\\..\\sb\\WebUI\\Profile.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-31T08:57:19.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Admin.Master",
+              "DocumentMoniker": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\Admin.Master",
+              "RelativeDocumentMoniker": "WebUI\\Admin.Master",
+              "ToolTip": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\Admin.Master",
+              "RelativeToolTip": "WebUI\\Admin.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-01T09:03:52.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminLogin.aspx",
+              "DocumentMoniker": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\AdminLogin.aspx",
+              "RelativeDocumentMoniker": "WebUI\\AdminLogin.aspx",
+              "ToolTip": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\AdminLogin.aspx",
+              "RelativeToolTip": "WebUI\\AdminLogin.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-01T09:41:09.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DeleteGoods.aspx",
+              "DocumentMoniker": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\\u540E\u53F0\u754C\u9762\\DeleteGoods.aspx",
+              "RelativeDocumentMoniker": "WebUI\\\u540E\u53F0\u754C\u9762\\DeleteGoods.aspx",
+              "ToolTip": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\\u540E\u53F0\u754C\u9762\\DeleteGoods.aspx",
+              "RelativeToolTip": "WebUI\\\u540E\u53F0\u754C\u9762\\DeleteGoods.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-01T09:15:45.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Profile.aspx",
+              "DocumentMoniker": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\Profile.aspx",
+              "RelativeDocumentMoniker": "WebUI\\Profile.aspx",
+              "ToolTip": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\Profile.aspx",
+              "RelativeToolTip": "WebUI\\Profile.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-31T08:24:12.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CartProfile.aspx",
+              "DocumentMoniker": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\CartProfile.aspx",
+              "RelativeDocumentMoniker": "WebUI\\CartProfile.aspx",
+              "ToolTip": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\CartProfile.aspx",
+              "RelativeToolTip": "WebUI\\CartProfile.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-31T08:53:59.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "newshop.Master",
+              "DocumentMoniker": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\newshop.Master",
+              "RelativeDocumentMoniker": "WebUI\\newshop.Master",
+              "ToolTip": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\newshop.Master",
+              "RelativeToolTip": "WebUI\\newshop.Master",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-31T05:22:05.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderDefault.aspx",
+              "DocumentMoniker": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\OrderDefault.aspx",
+              "RelativeDocumentMoniker": "WebUI\\OrderDefault.aspx",
+              "ToolTip": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\OrderDefault.aspx",
+              "RelativeToolTip": "WebUI\\OrderDefault.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-01T02:52:12.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DeleteGoods.aspx.cs",
+              "DocumentMoniker": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\\u540E\u53F0\u754C\u9762\\DeleteGoods.aspx.cs",
+              "RelativeDocumentMoniker": "WebUI\\\u540E\u53F0\u754C\u9762\\DeleteGoods.aspx.cs",
+              "ToolTip": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\\u540E\u53F0\u754C\u9762\\DeleteGoods.aspx.cs",
+              "RelativeToolTip": "WebUI\\\u540E\u53F0\u754C\u9762\\DeleteGoods.aspx.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAWwE0AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T14:21:43.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CartBusiness.cs",
+              "DocumentMoniker": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\Business\\CartBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\CartBusiness.cs",
+              "ToolTip": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\Business\\CartBusiness.cs",
+              "RelativeToolTip": "Business\\CartBusiness.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvyEAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T01:52:35.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CartItemBusiness.cs",
+              "DocumentMoniker": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\Business\\CartItemBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\CartItemBusiness.cs",
+              "ToolTip": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\Business\\CartItemBusiness.cs",
+              "RelativeToolTip": "Business\\CartItemBusiness.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T08:49:48.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CartProfile.aspx.cs",
+              "DocumentMoniker": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\CartProfile.aspx.cs",
+              "RelativeDocumentMoniker": "WebUI\\CartProfile.aspx.cs",
+              "ToolTip": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\CartProfile.aspx.cs",
+              "RelativeToolTip": "WebUI\\CartProfile.aspx.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAArwC0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T08:54:19.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "InsertGoods.aspx.cs",
+              "DocumentMoniker": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\\u540E\u53F0\u754C\u9762\\InsertGoods.aspx.cs",
+              "RelativeDocumentMoniker": "WebUI\\\u540E\u53F0\u754C\u9762\\InsertGoods.aspx.cs",
+              "ToolTip": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\\u540E\u53F0\u754C\u9762\\InsertGoods.aspx.cs",
+              "RelativeToolTip": "WebUI\\\u540E\u53F0\u754C\u9762\\InsertGoods.aspx.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwC8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T10:21:22.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "shopDefault.aspx.cs",
+              "DocumentMoniker": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\shopDefault.aspx.cs",
+              "RelativeDocumentMoniker": "WebUI\\shopDefault.aspx.cs",
+              "ToolTip": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\shopDefault.aspx.cs",
+              "RelativeToolTip": "WebUI\\shopDefault.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T09:17:31.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Profile.aspx.cs",
+              "DocumentMoniker": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\Profile.aspx.cs",
+              "RelativeDocumentMoniker": "WebUI\\Profile.aspx.cs",
+              "ToolTip": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\Profile.aspx.cs",
+              "RelativeToolTip": "WebUI\\Profile.aspx.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAawFcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T08:59:36.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderDefault.aspx.cs",
+              "DocumentMoniker": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\OrderDefault.aspx.cs",
+              "RelativeDocumentMoniker": "WebUI\\OrderDefault.aspx.cs",
+              "ToolTip": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\OrderDefault.aspx.cs",
+              "RelativeToolTip": "WebUI\\OrderDefault.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T02:53:07.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\packages.config",
+              "RelativeDocumentMoniker": "WebUI\\packages.config",
+              "ToolTip": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\packages.config",
+              "RelativeToolTip": "WebUI\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-01T10:03:34.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AdminLogin.aspx.cs",
+              "DocumentMoniker": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\AdminLogin.aspx.cs",
+              "RelativeDocumentMoniker": "WebUI\\AdminLogin.aspx.cs",
+              "ToolTip": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\AdminLogin.aspx.cs",
+              "RelativeToolTip": "WebUI\\AdminLogin.aspx.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA8wCEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T09:42:38.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "login.aspx",
+              "DocumentMoniker": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\login.aspx",
+              "RelativeDocumentMoniker": "WebUI\\login.aspx",
+              "ToolTip": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\login.aspx",
+              "RelativeToolTip": "WebUI\\login.aspx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-31T08:30:29.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AdminBusiness.cs",
+              "DocumentMoniker": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\Business\\AdminBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\AdminBusiness.cs",
+              "ToolTip": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\Business\\AdminBusiness.cs",
+              "RelativeToolTip": "Business\\AdminBusiness.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T09:46:44.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AdminEntity.cs",
+              "DocumentMoniker": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\Entity\\AdminEntity.cs",
+              "RelativeDocumentMoniker": "Entity\\AdminEntity.cs",
+              "ToolTip": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\Entity\\AdminEntity.cs",
+              "RelativeToolTip": "Entity\\AdminEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T09:44:56.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\DataAccess\\Class1.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Class1.cs",
+              "ToolTip": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\DataAccess\\Class1.cs",
+              "RelativeToolTip": "DataAccess\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T11:22:11.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CartEntity.cs",
+              "DocumentMoniker": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\Entity\\CartEntity.cs",
+              "RelativeDocumentMoniker": "Entity\\CartEntity.cs",
+              "ToolTip": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\Entity\\CartEntity.cs",
+              "RelativeToolTip": "Entity\\CartEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T08:47:02.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\Entity\\UserEntity.cs",
+              "RelativeDocumentMoniker": "Entity\\UserEntity.cs",
+              "ToolTip": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\Entity\\UserEntity.cs",
+              "RelativeToolTip": "Entity\\UserEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T08:47:35.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "login.aspx.cs",
+              "DocumentMoniker": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\login.aspx.cs",
+              "RelativeDocumentMoniker": "WebUI\\login.aspx.cs",
+              "ToolTip": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\login.aspx.cs",
+              "RelativeToolTip": "WebUI\\login.aspx.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIA1wCIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T09:42:50.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "OrderBusiness.cs",
+              "DocumentMoniker": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\Business\\OrderBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\OrderBusiness.cs",
+              "ToolTip": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\Business\\OrderBusiness.cs",
+              "RelativeToolTip": "Business\\OrderBusiness.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAowBwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T14:20:53.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "OrderEntity.cs",
+              "DocumentMoniker": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\Entity\\OrderEntity.cs",
+              "RelativeDocumentMoniker": "Entity\\OrderEntity.cs",
+              "ToolTip": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\Entity\\OrderEntity.cs",
+              "RelativeToolTip": "Entity\\OrderEntity.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T14:16:35.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\Business\\Class1.cs",
+              "RelativeDocumentMoniker": "Business\\Class1.cs",
+              "ToolTip": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\Business\\Class1.cs",
+              "RelativeToolTip": "Business\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T01:52:49.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CartItemEntity.cs",
+              "DocumentMoniker": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\Entity\\CartItemEntity.cs",
+              "RelativeDocumentMoniker": "Entity\\CartItemEntity.cs",
+              "ToolTip": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\Entity\\CartItemEntity.cs",
+              "RelativeToolTip": "Entity\\CartItemEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T08:47:25.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Profile.aspx.designer.cs",
+              "DocumentMoniker": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\Profile.aspx.designer.cs",
+              "RelativeDocumentMoniker": "WebUI\\Profile.aspx.designer.cs",
+              "ToolTip": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\Profile.aspx.designer.cs",
+              "RelativeToolTip": "WebUI\\Profile.aspx.designer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvw0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T09:04:26.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CartProfile.aspx.designer.cs",
+              "DocumentMoniker": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\CartProfile.aspx.designer.cs",
+              "RelativeDocumentMoniker": "WebUI\\CartProfile.aspx.designer.cs",
+              "ToolTip": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\WebUI\\CartProfile.aspx.designer.cs",
+              "RelativeToolTip": "WebUI\\CartProfile.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T09:06:21.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "GoodEntity.cs",
+              "DocumentMoniker": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\Entity\\GoodEntity.cs",
+              "RelativeDocumentMoniker": "Entity\\GoodEntity.cs",
+              "ToolTip": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\Entity\\GoodEntity.cs",
+              "RelativeToolTip": "Entity\\GoodEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T08:47:29.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "DA.cs",
+              "DocumentMoniker": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\DataAccess\\DA.cs",
+              "RelativeDocumentMoniker": "DataAccess\\DA.cs",
+              "ToolTip": "D:\\ShopWeb\\realshop \u540E\u53F0\u529F\u80FD\u7684 \u7269\u54C1\u6A21\u5757\u5DF2\u5B8C\u6210\uFF08\u672A\u5B8C\u6210\u5C01\u9762\u7684\u66F4\u6539\uFF09\\Solution1\\DataAccess\\DA.cs",
+              "RelativeToolTip": "DataAccess\\DA.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAQwFgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T11:26:01.475Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

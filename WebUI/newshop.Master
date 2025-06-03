@@ -10,33 +10,44 @@
     </asp:ContentPlaceHolder>
     <style type="text/css">
         .auto-style1 {
-            width: 955px;
+            width: 1286px;
             height: 427px;
         }
 
         .auto-style2 {
-            width: 78px;
+            width: 144px;
         }
 
         .auto-style3 {
-            width: 755px;
+            width: 991px;
         }
 
         .auto-style4 {
             height: 118px;
             text-align: center;
-            background-color: #CCFFFF;
+            background-color: bisque;
         }
         .auto-style5 {
-            width: 78px;
+            width: 144px;
             height: 57px;
         }
         .auto-style6 {
-            width: 755px;
+            width: 991px;
             height: 57px;
         }
         .auto-style7 {
             height: 57px;
+        }
+        .auto-style8 {
+            width: 144px;
+            height: 76px;
+        }
+        .auto-style9 {
+            width: 991px;
+            height: 76px;
+        }
+        .auto-style10 {
+            height: 76px;
         }
     </style>
 </head>
@@ -48,17 +59,22 @@
                     <td class="auto-style4" colspan="3">商城</td>
                 </tr>
                 <tr>
-                    <td class="auto-style2">&nbsp;</td>
-                    <td class="auto-style3">
+                    <td class="auto-style8"></td>
+                    <td class="auto-style9">
                         <asp:Panel ID="plVisitor" runat="server">
-                            游客&nbsp;&nbsp; 
+                            游客&nbsp;<asp:HyperLink ID="HyperLink5" runat="server" NavigateUrl="~/shopDefault.aspx">首页</asp:HyperLink>
+                            &nbsp;&nbsp; 
                             <asp:HyperLink ID="HyperLink3" runat="server" NavigateUrl="~/register.aspx">注册</asp:HyperLink>
                             &nbsp;&nbsp;<asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/login.aspx">登录</asp:HyperLink>
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<asp:HyperLink ID="HyperLink7" runat="server" NavigateUrl="~/AdminLogin.aspx">管理员登录</asp:HyperLink>
+                            &nbsp;
                         </asp:Panel>
                         <asp:Panel ID="plUser" runat="server">
-                            会员 &nbsp;&nbsp;<%--&nbsp;<asp:LinkButton ID="LinkButton1" runat="server" OnClick="LinkButton1_Click">注销</asp:LinkButton>--%></asp:Panel>
+                            会员&nbsp;<%--&nbsp;<asp:LinkButton ID="LinkButton1" runat="server" OnClick="LinkButton1_Click">注销</asp:LinkButton>--%><asp:HyperLink ID="HyperLink4" runat="server" NavigateUrl="~/CartProfile.aspx">购物车</asp:HyperLink>
+                            &nbsp;<asp:HyperLink ID="HyperLink6" runat="server" NavigateUrl="~/OrderDefault.aspx">订单详情</asp:HyperLink>
+                        </asp:Panel>
                     </td>
-                    <td>&nbsp;</td>
+                    <td class="auto-style10"></td>
                 </tr>
                 <tr>
                     <td class="auto-style5"></td>
@@ -70,7 +86,7 @@
                 </tr>
                 <tr>
                     <td class="auto-style2">&nbsp;</td>
-                    <td class="auto-style3">版权信息       <td class="auto-style7"></td>
+                    <td class="auto-style3">版权信息        <td class="auto-style7"></td>
                 </tr>
                 <tr>
                     <td class="auto-style2">&nbsp;</td>

@@ -1,5 +1,14 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/newshop.Master" AutoEventWireup="true" CodeBehind="Profile.aspx.cs" Inherits="WebUI.Profile" %>
 
+<script runat="server">
+
+    protected void btnCart_Click(object sender, EventArgs e)
+    {
+
+    }
+</script>
+
+
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
     <style type="text/css">
  
@@ -31,6 +40,10 @@
             height: 135px;
         }
  
+        .auto-style17 {
+            height: 77px;
+        }
+ 
     </style>
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
@@ -50,24 +63,25 @@
             <td class="auto-style11">&nbsp;</td>
         </tr>
         <tr>
-            <td class="auto-style14"></td>
+            <td class="auto-style14">要购买的数量：<asp:TextBox ID="txtQuantity" runat="server"></asp:TextBox>
+            </td>
         </tr>
         <tr>
             <td>价格：<asp:Label ID="price" runat="server"></asp:Label>
             </td>
             <td class="auto-style13" rowspan="2">
-                <asp:Button ID="btnCart" runat="server" Height="33px" Text="加入购物车" Width="202px"  />
+                <asp:Button ID="btnCart" runat="server" Height="33px" Text="加入购物车" Width="202px" OnClick="btnCart_Click1"  />
             </td>
         </tr>
         <tr>
-            <td>数量：<asp:Label ID="num" runat="server"></asp:Label>
+            <td class="auto-style17">数量：<asp:Label ID="num" runat="server"></asp:Label>
             </td>
         </tr>
         <tr>
             <td class="auto-style15">详细信息：<asp:Label ID="detail" runat="server"></asp:Label>
             </td>
             <td class="auto-style16">
-                <asp:Button ID="btnBuy" runat="server" Height="33px" Text="购买" Width="202px"  />
+                <asp:Button ID="btnBuy" runat="server" Height="33px" Text="购买" Width="202px" OnClick="btnBuy_Click"  />
             </td>
         </tr>
     </table>

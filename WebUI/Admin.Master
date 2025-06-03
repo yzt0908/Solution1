@@ -1,0 +1,82 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="WebUI.Admin" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 1046px;
+            height: 603px;
+        }
+        .auto-style2 {
+            text-align: center;
+        }
+        .auto-style3 {
+            width: 137px;
+        }
+        .auto-style4 {
+            width: 137px;
+            height: 53px;
+        }
+        .auto-style5 {
+            width: 137px;
+            height: 228px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <table class="auto-style1">
+                <tr>
+                    <td class="auto-style2" colspan="3">后台管理</td>
+                </tr>
+                <tr>
+                    <td class="auto-style4">
+                        <asp:HyperLink ID="HyperLink8" runat="server" NavigateUrl="~/Profile.aspx">首页</asp:HyperLink>
+                    </td>
+                    <td colspan="2" rowspan="2">
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="auto-style5">
+                        <asp:TreeView ID="TreeView1" runat="server">
+                            <Nodes>
+                                <asp:TreeNode Text="会员管理" Value="会员管理">
+                                    <asp:TreeNode Text="显示会员" Value="显示会员"></asp:TreeNode>
+                                    <asp:TreeNode Text="修改会员" Value="修改会员"></asp:TreeNode>
+                                    <asp:TreeNode Text="新建会员" Value="新建会员"></asp:TreeNode>
+                                    <asp:TreeNode Text="删除会员" Value="删除会员"></asp:TreeNode>
+                                </asp:TreeNode>
+                                <asp:TreeNode Text="商品管理" Value="商品管理">
+                                    <asp:TreeNode NavigateUrl="~/后台界面/SelectGoods.aspx" Text="显示商品" Value="显示商品"></asp:TreeNode>
+                                    <asp:TreeNode NavigateUrl="~/后台界面/InsertGoods.aspx" Text="新增商品" Value="新增商品"></asp:TreeNode>
+                                    <asp:TreeNode NavigateUrl="~/后台界面/UpdateGoods.aspx" Text="修改商品" Value="修改商品"></asp:TreeNode>
+                                    <asp:TreeNode NavigateUrl="~/后台界面/DeleteGoods.aspx" Text="删除商品" Value="删除商品"></asp:TreeNode>
+                                </asp:TreeNode>
+                                <asp:TreeNode Text="订单管理" Value="订单管理"></asp:TreeNode>
+                                <asp:TreeNode Text="网站前台" Value="网站前台"></asp:TreeNode>
+                                <asp:TreeNode Text="注销" Value="注销"></asp:TreeNode>
+                            </Nodes>
+                        </asp:TreeView>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="auto-style3">&nbsp;</td>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                </tr>
+            </table>
+        </div>
+    </form>
+</body>
+</html>

@@ -41,7 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AdminEntity.cs" />
+    <Compile Include="CartEntity.cs" />
+    <Compile Include="CartItemEntity.cs" />
     <Compile Include="GoodEntity.cs" />
+    <Compile Include="OrderEntity.cs" />
     <Compile Include="UserEntity.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
